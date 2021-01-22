@@ -7,6 +7,7 @@ import "firebase/storage";
 var firebaseConfig = {
     apiKey: "AIzaSyB-O5aO3aSdGNVYcYsWqeugOR2Y6PiIDwA",
     authDomain: "react-slack-clone-cae4c.firebaseapp.com",
+    databaseURL: "https://react-slack-clone-cae4c-default-rtdb.firebaseio.com",
     projectId: "react-slack-clone-cae4c",
     storageBucket: "react-slack-clone-cae4c.appspot.com",
     messagingSenderId: "381510324418",
